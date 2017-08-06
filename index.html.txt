@@ -3,6 +3,10 @@
 <h1>heading 1</h1>
 <p>paragraph</p>
 <p>dev</p>
+<<<<<<< HEAD
 hi this is louv.
+=======
+<p>this is for teting meger</p>
+>>>>>>> dev
 </body>
 </html>
